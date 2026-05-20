@@ -43,7 +43,7 @@ The dashboard supports dynamic filtering across:
 
 ## Key Insights
 
-- Overall average rating of **4.2/10** across the full review period
+- Overall average rating of **4.2/5** across the full review period
 - **Entertainment** rated lowest at **1.4** — a consistent pain point across all traveler types
 - **Boeing 747-400** received the highest average rating **(4.7)** despite fewer reviews (97)
 - Ratings show a notable decline trend from 2021 onward, suggesting post-COVID service recovery challenges
